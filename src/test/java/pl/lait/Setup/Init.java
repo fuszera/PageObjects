@@ -69,9 +69,9 @@ public class Init {
 	}
 	
 
-	/*
+	
 	public void printScr(String folder) {
-
+/*
 		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
 		Long milis = timestamp.getTime();
 		File srcFile = driver.getScreenshotAs(OutputType.FILE);
@@ -82,9 +82,9 @@ public class Init {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-
+*/
 	}
-	*/
+	
 	
 	
 	
