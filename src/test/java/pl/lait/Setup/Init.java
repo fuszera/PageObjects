@@ -22,8 +22,6 @@ public class Init {
 	static WebDriver driver;
 	String folder = "allScreens";
 	
-
-
 	
 	public static WebDriver getDriver() {
 
